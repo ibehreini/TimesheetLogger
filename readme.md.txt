@@ -1,0 +1,1 @@
+This is a little utility to log hours easily
